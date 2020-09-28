@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/__pycache__.*": true,
+    ".env": true,
+    "DjangoApp/node_modules": true,
+    "DjangoApp/.idea": true,
+    "**/__pycache__": true
+  },
+  "python.pythonPath": ".env/python/bin/python"
+}

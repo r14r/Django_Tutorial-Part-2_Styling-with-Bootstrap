@@ -1,0 +1,26 @@
+{
+  "name": "tutorial-part-2_styling-with-bootstrap",
+  "version": "1.0.0",
+  "description": "$ python -m django --version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/python-toolbox/Tutorial-Part-2_Styling-with-Bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/python-toolbox/Tutorial-Part-2_Styling-with-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/python-toolbox/Tutorial-Part-2_Styling-with-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.14.7",
+    "webpack": "^4.38.0",
+    "webpack-cli": "^3.3.6"
+  }
+}
